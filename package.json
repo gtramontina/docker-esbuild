@@ -3,6 +3,6 @@
 	"version": "0.0.0",
 	"private": true,
 	"dependencies": {
-		"esbuild": "0.12.28"
+		"esbuild": "0.12.29"
 	}
 }
